@@ -1,7 +1,4 @@
 # NinjaFrogAdventure
 2D Platformer Game: Ninja Frog Adventure.
 
-Controlls:
-  Move: Arrow Keys OR WASD
-  Jump: Space
-  Exit: Escape
+Use Arrow Keys to Move, Space to Jump and Escape to Exit.
